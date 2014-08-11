@@ -1,7 +1,7 @@
 /*
 Filename: BubbleSort.cs
 Author: Rick Fogle
-Creation Date: 15 May 2014
+Creation Date: 15 May 2014 
 
 Purpose:
 Source code for the BubbleSort.exe command-line executable. I created this to help me learn two
