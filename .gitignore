@@ -51,6 +51,8 @@ x64/
 build/
 [Bb]in/
 [Oo]bj/
+*.exe
+*.com
 
 # MSTest test Results
 [Tt]est[Rr]esult*/
