@@ -1,7 +1,7 @@
 /*
 Filename: BubbleSort.cs
 Author: Rick Fogle
-Creation Date: 15 May 2014 
+Creation Date: 12 August 2014 
 
 Purpose:
 Source code for the BubbleSort.exe command-line executable. I created this to help me learn two
@@ -13,12 +13,8 @@ External Resources:
 System namespace, 
 
 NOTES: 
-15 May 2014: Version 0.0.1 puts all the functionality in the Main() function for simplicity and uses a fixed starting 
-array. Later versions will be more modular, include modified bubblesort functionality and  encorporate a 
-random number generator to load the array.
-
-15 May 2014: Version 0.0.2 Modularizes the functionality to sort and display the arrays.
-
+12 August 2014 - Initial Git Commit of modbs code branch so I can update the code for a 
+	Modified BubbleSort.
 */
 
 // Declare external namespaces used.
